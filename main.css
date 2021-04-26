@@ -57,7 +57,7 @@ img {
 }
 
 .hero {
-  background: url(/assets/images/hero-bg.jpg) center/cover;
+  background: url(./hero-bg.jpg) center/cover;
 }
 
 .main-header {
